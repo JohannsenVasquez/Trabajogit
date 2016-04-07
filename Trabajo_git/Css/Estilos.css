@@ -33,6 +33,9 @@ descripcion h1{
 .contenido h2{
     color:blue;
 }
+.contenido h3{
+    color:green;
+}
 .contenido img{
     width: 400px;
     height: 300px;
