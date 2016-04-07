@@ -151,3 +151,16 @@ descripcion h1{
     color: coral;
     text-align: center;
 }
+.fin{
+     margin: 25px;
+    text-align: center;
+}
+.fin h3{
+    color:black;
+    text-align: center;
+}
+
+.fin p{
+    color: black;
+    text-align: center;
+}
