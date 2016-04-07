@@ -74,3 +74,10 @@ descripcion h1{
     width:500;
     height: 400;
 }
+.pasoe{
+    margin: 30px;
+    text-align: center;
+}
+.pasoe h2{
+   color:chocolate;
+}
