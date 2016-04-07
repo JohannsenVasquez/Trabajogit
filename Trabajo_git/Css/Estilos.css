@@ -1,27 +1,41 @@
 .descripcion{
-   background: white;
     margin: 20px;
     color:black;
     text-align: center;
 }
+descripcion h1{
+    color:blue;
+}
 .descripcion h2{
-    color:black;
+    color:blue;
 }
-.descripcion h1{
-    color:black;
+.descripcion p{
+    color:red;
+
 }
+
 .objetivo{
     margin: 25px;
     text-align: center;
 }
 .objetivo h2{
-    color:black;
+    color:blue;
+}
+.objetivo p{
+     text-align: center;
+    width: 1400px;
+    text-align: justify;
 }
 .contenido{
     margin:25px;
     text-align: center;
 }
 .contenido h2{
-    color:black;
+    color:blue;
 }
+.contenido img{
+    width: 400px;
+    height: 300px;
+}
+
 
