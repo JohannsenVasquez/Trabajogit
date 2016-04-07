@@ -98,12 +98,25 @@ descripcion h1{
      margin: 25px;
     text-align: center;
 }
-.capet h3{
-    color: chartreuse;
+.carpet h3{
+  color: chartreuse;
     text-align: center;
 }
 
 .carpet img{
+    margin: 450;
+    height: 500;
+}
+.todos{
+     margin: 25px;
+    text-align: center;
+}
+.todos h3{
+    color: chartreuse;
+    text-align: center;
+}
+
+.todos img{
     margin: 450;
     height: 500;
 }
