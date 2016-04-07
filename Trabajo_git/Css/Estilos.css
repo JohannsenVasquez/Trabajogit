@@ -40,5 +40,16 @@ descripcion h1{
     width: 400px;
     height: 300px;
 }
+.irpc{
+    margin:25px;
+    text-align: center;
+}
+.irpc h3{
+    color:green;
+}
+.irpc img{
+    width: 200px;
+    height: 250px;
+
 
 
