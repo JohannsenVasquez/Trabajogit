@@ -50,6 +50,15 @@ descripcion h1{
 .irpc img{
     width: 200px;
     height: 250px;
-
-
-
+}
+.clicm{
+    margin: 25px;
+    text-align: center;
+}
+.clicm h3{
+    color: green;
+}
+.irpcm img{
+    width: 400;
+    height: 380;
+}
