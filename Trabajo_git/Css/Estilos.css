@@ -62,3 +62,15 @@ descripcion h1{
     width: 400;
     height: 380;
 }
+}
+.formatear{
+    margin: 30px;
+    text-align: center;
+}
+.formatear h3{
+    color: green;
+}
+.formatear img{
+    width:500;
+    height: 400;
+}
