@@ -134,3 +134,16 @@ descripcion h1{
     margin: 450;
     height: 500;
 }
+.terminar{
+     margin: 25px;
+    text-align: center;
+}
+.terminar h3{
+    color: chartreuse;
+    text-align: center;
+}
+
+.terminar img{
+    margin: 450;
+    height: 500;
+}
