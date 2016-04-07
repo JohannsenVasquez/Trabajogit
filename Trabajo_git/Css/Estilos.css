@@ -138,12 +138,16 @@ descripcion h1{
      margin: 25px;
     text-align: center;
 }
-.terminar h3{
-    color: chartreuse;
+.floro {
+    color:black;
+    text-align: center;
+}
+.floro h3{
+    color:deeppink;
     text-align: center;
 }
 
-.terminar img{
-    margin: 450;
-    height: 500;
+.floro p{
+    color: coral;
+    text-align: center;
 }
