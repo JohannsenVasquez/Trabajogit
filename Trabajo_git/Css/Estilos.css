@@ -94,3 +94,16 @@ descripcion h1{
     margin: 250;
     height: 300;
 }
+.carpet{
+     margin: 25px;
+    text-align: center;
+}
+.capet h3{
+    color: chartreuse;
+    text-align: center;
+}
+
+.carpet img{
+    margin: 450;
+    height: 500;
+}
